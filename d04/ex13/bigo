@@ -1,0 +1,2 @@
+O(nm) time, n is the length of the bit sequence until zero, m is the number of bits traversed for addition.
+O(1) space.
